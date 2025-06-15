@@ -134,6 +134,7 @@ header  {
 #firstnations, #thebridge, #theenvironment, #currentsituation, #thesolution, .intro-row {
   margin: 10px;
   text-align: justify;
+  scroll-margin-top: 20px;
 }
 
 #sources {
