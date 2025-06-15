@@ -5,10 +5,6 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-padding-top: 70px;
-}
-
 title {
   color: #e5cbbb;
 }
