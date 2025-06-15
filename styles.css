@@ -57,8 +57,11 @@ nav.navbar {
   html {
   scroll-padding-top: 170px;
   }
-}
 
+  main {
+    text-align: left;
+  }
+} 
 nav.navbar ul {
   list-style-type: none;
   font-size: large;
