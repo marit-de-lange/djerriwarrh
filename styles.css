@@ -48,7 +48,8 @@ nav.navbar {
   nav.navbar {
     flex-direction: column;
     align-items: center;
-    height: 100%;
+    height: auto;
+    padding: 10px 0;
   }
 
   nav.navbar a {
@@ -131,7 +132,6 @@ header  {
 }
 
 #firstnations, #thebridge, #theenvironment, #currentsituation, #thesolution, .intro-row {
-  scroll-margin-top: 50px;
   margin: 10px;
   text-align: justify;
 }
